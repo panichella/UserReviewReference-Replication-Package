@@ -12,3 +12,5 @@ through an empirical study involving the reviews and code of 39 mobile applicati
 recall of URR in organising reviews according to well defined maintenance and evolution tasks and recommending the source files
 that need to be modified to handle the issues raised by users in their reviews. Finally, while evaluating our approach we 
 discovered that using code structure information of mobile applications   improves code localization results.
+
+This repository provides the replication package with (i) material and working data sets of our study, (ii) complete results of the SURVEY; and (iii) rawdata for replication purposes and to support future studies. A detailed description of the contents is included in README.txt.
