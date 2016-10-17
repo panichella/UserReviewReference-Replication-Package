@@ -1,5 +1,4 @@
-# UserReviewReference-Replication-Package
-Replication Package for the paper entitled: "Analyzing Reviews and Code of Mobile Apps for a better Release Planning Organization".
+# Replication Package for the paper entitled: "Analyzing Reviews and Code of Mobile Apps for a better Release Planning Organization".
 
 Abstract:
 The mobile apps market experiences an unprecedented high growth, developers working in this context face a fierce competition in 
